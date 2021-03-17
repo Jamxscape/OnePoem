@@ -76,7 +76,7 @@ void f2(int n)
     result = "";
     temp = "";
 }
-int main(int argc, const char * argv[]) {
+int main1(int argc, const char * argv[]) {
     for(int i=1;i<300;i++)
     {
         cout<<"[一首诗(其";
